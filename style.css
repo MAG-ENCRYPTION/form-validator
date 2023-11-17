@@ -72,6 +72,10 @@
     background-color: #3e8e41;
     align-self: center;
   }
+  form label{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
   
 
   
